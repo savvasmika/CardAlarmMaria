@@ -1,0 +1,6 @@
+{
+  "name": "Maria Work Alarm",
+  "description": "Εφαρμογή διαχείρισης και αυτόματης ενεργοποίησης alarms εργασίας από αρχείο προγράμματος Excel για τη Μαρία.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
